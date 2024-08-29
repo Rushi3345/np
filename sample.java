@@ -1,4 +1,4 @@
-class sample
+class sample{
   public static void main(String arg[]){
    int i,fact=1;
    int number=4;
